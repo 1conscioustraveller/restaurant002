@@ -1,0 +1,13 @@
+sunnyvale-bistro/
+├── index.html
+├── styles.css
+├── images/
+│   ├── hero.jpg
+│   ├── dish1.jpg
+│   ├── dish2.jpg
+│   ├── dish3.jpg
+│   ├── wine.jpg
+│   └── cheese.jpg
+├── README.md
+├── STRUCTURE.md
+└── menu.txt
